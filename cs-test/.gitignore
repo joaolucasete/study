@@ -1,0 +1,31 @@
+# Ignorar diretórios de build
+obj/
+bin/
+
+# Ignorar arquivos de configuração do Visual Studio
+*.user
+*.suo
+*.sln.docstates
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar pacotes NuGet
+packages/
+
+# Ignorar arquivos de cache
+*.vs/
+
+# Ignorar arquivos de configuração do IIS Express
+.vs/config/applicationhost.config
+
+# Ignorar arquivos de publicação
+*.pubxml
+*.publishsettings
+
+# Ignorar arquivos temporários
+*.tmp
+*.swp
+
+.devenv/
+.direnv/
